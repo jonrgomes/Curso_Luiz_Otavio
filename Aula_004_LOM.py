@@ -3,6 +3,7 @@
 # O tipo int representa qualquer número
 # positivo ou negativo. int sem sinal é considerado
 # positivo.
+
 print(11)
 print(-11)
 print(0)

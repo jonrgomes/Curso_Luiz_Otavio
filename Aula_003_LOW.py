@@ -1,5 +1,6 @@
 """
 
+
 DocString
 Python = Linguagem de programação
 Tipo de tipagem = Dinâmica / Forte

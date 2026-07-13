@@ -4,6 +4,7 @@
 # O sinal de = é o operador de atribuiçã. Ele é usado para 
 # atribuir um valor a um nome (variável)
 # Uso: nome_variável = expressão
+
 nome_completo = 'Jonatas Ribeiro Gomes'
 soma_dois_mais_valores = 2 + 2
 int_um = int('1')

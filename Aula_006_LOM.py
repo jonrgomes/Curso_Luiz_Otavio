@@ -5,6 +5,7 @@
 # str, int, float, bool
 # palimorfismos: utilizar o mesmo operador para fazer coisas diferentes
 # concatenar: Juntar duas coisas
+
 print(int('1'), type(int(1)))
 print(int('1') + 1)     
 print(int(float('1') + 1))
