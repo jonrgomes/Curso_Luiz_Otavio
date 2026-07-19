@@ -5,7 +5,8 @@
 # print(f'Seu nome é {nome}!')
 # print(f'A soma dos números é {soma}')
 
-# Tipagem de número
+# Tipagem de número/checagem não impossibilitada
+
 numero_01 = input('Digite um número: ')
 numero_02 = input('Digite outro número: ')
 
